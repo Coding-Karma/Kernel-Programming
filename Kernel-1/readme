@@ -1,0 +1,8 @@
+1)Code the hello.c
+2)Code the Makefile
+3)Type Make
+4)Get all the files
+5)Time to load the module by "insmod hello.ko"
+6)Check your module is loaded by cat /proc/modules
+7)Time to remove the module by "rmmod hello"
+8)That's it for the first module!
