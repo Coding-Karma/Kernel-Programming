@@ -1,0 +1,4 @@
+1) Run Make
+2) Load it using insmod hello-2.ko
+3) Remove it using rmmod hello-2.ko
+4) Check the content in /var/log/syslog

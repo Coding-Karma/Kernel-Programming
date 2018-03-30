@@ -1,0 +1,1 @@
+cmd_/home/karma/Kernel-Programming/Kernel-2/hello-2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/karma/Kernel-Programming/Kernel-2/hello-2.ko /home/karma/Kernel-Programming/Kernel-2/hello-2.o /home/karma/Kernel-Programming/Kernel-2/hello-2.mod.o

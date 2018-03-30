@@ -1,1 +1,1 @@
-cmd_/root/kernel/Kernel-1/hello.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.12.0-kali2-common/scripts/module-common.lds --build-id  -o /root/kernel/Kernel-1/hello.ko /root/kernel/Kernel-1/hello.o /root/kernel/Kernel-1/hello.mod.o ;  true
+cmd_/home/karma/Kernel-Programming/Kernel-1/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/karma/Kernel-Programming/Kernel-1/hello.ko /home/karma/Kernel-Programming/Kernel-1/hello.o /home/karma/Kernel-Programming/Kernel-1/hello.mod.o
